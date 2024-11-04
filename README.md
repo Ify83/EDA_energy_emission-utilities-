@@ -1,0 +1,12 @@
+This dataset provides a multi-dimensional look at energy production, consumption, and associated carbon emissions metrics for two specific countries: Algeria and Argentina, spanning from 1990 to 2020. The data encompasses environmental, economic, and energy-specific metrics, which are essential in understanding these countries' contributions to global emissions, energy usage patterns, and progress toward renewable energy integration over time. Key variables in the dataset include:
+
+Region CO2 Emissions: The annual CO2 emissions (in unspecified units) from energy consumption in Algeria and Argentina, reflecting the environmental impact of fossil fuel reliance within each country's respective region.
+Average CO2 Emission Factor: This factor illustrates the carbon intensity of the energy mix, signifying how much CO2 is emitted per unit of energy generated, providing insights into each country’s efficiency and reliance on carbon-intensive fuels.
+CO2 Intensity at Constant Purchasing Power: This value adjusts emissions relative to the economic output (purchasing power) of each country, giving a perspective on emissions efficiency in relation to the economy.
+4. Total Energy Production and Consumption: These columns indicate the overall energy produced and consumed by each country (in unspecified units), serving as a benchmark for understanding domestic energy sufficiency and dependency.
+5. Share of Renewables in Electricity Production: This metric represents the percentage of electricity production derived from renewable sources, an indicator of each country’s transition towards cleaner energy.
+6. Share of Electricity in Total Final Energy Consumption: This value shows the proportion of total energy consumption represented by electricity, highlighting trends in electrification and energy usage patterns.
+Algeria, located in the Arab States region, and Argentina in South/Latin America, offer contrasting examples of developing economies with different energy profiles and paths towards energy sustainability. Algeria relies significantly on fossil fuels due to its vast hydrocarbon resources, whereas Argentina has historically integrated a substantial portion of renewable energy in electricity production. This dataset sheds light on how these two countries have evolved in terms of energy production, carbon intensity, and the renewable transition over a 30-year period.
+
+
+
